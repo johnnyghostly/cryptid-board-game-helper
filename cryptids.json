@@ -1,0 +1,266 @@
+[
+  {
+    "Name": "Brosno dragon",
+    "Other Names": "Brosnya",
+    "Description": "Lake monster",
+    "Location": "Lake Brosno, Russia"
+  },
+  {
+    "Name": "Cadborosaurus",
+    "Other Names": "Caddy",
+    "Description": "Sea animal",
+    "Location": "Pacific Coast of North America"
+  },
+  {
+    "Name": "Champ",
+    "Other Names": "Champtanystropheus americanus, Champy",
+    "Description": "Lake monster",
+    "Location": "Lake Champlain, North America"
+  },
+  {
+    "Name": "Dobhar-chú",
+    "Other Names": "Water Hound",
+    "Description": "Extra-large otter-like carnivorous aquatic mammal",
+    "Location": "Ireland"
+  },
+  {
+    "Name": "Igopogo",
+    "Other Names": "Kempenfelt Kelly",
+    "Description": "Lake monster",
+    "Location": "Lake Simcoe, Ontario (Canada)"
+  },
+  {
+    "Name": "Isshii",
+    "Other Names": "Issie",
+    "Description": "Lake monster",
+    "Location": "Japan"
+  },
+  {
+    "Name": "Kusshii",
+    "Other Names": "Kussie",
+    "Description": "Lake monster",
+    "Location": "Japan"
+  },
+  {
+    "Name": "Loch Ness Monster",
+    "Other Names": "Nessie",
+    "Description": "Lake monster",
+    "Location": "Loch Ness, Scotland"
+  },
+  {
+    "Name": "Loveland Frog",
+    "Other Names": "Loveland frogman, Loveland lizard",
+    "Description": "Humanoid frog",
+    "Location": "Loveland, Ohio"
+  },
+  {
+    "Name": "Mamlambo",
+    "Other Names": "",
+    "Description": "Lake monster",
+    "Location": "South Africa"
+  },
+  {
+    "Name": "Manipogo",
+    "Other Names": "Winnipogo",
+    "Description": "Lake monster",
+    "Location": "Lake Manitoba, Canada"
+  },
+  {
+    "Name": "Mokele-mbembe",
+    "Other Names": "",
+    "Description": "Dinosaur",
+    "Location": "Republic of the Congo"
+  },
+  {
+    "Name": "Nahuelito",
+    "Other Names": "Nahuel Huapi Lake Monster",
+    "Description": "Lake monster",
+    "Location": "Nahuel Huapi Lake, Argentina"
+  },
+  {
+    "Name": "Ningen",
+    "Other Names": "",
+    "Description": "Humanoid",
+    "Location": "Subantarctic"
+  },
+  {
+    "Name": "Ogopogo",
+    "Other Names": "Naitaka",
+    "Description": "Lake monster",
+    "Location": "Lake Okanagan, Canada"
+  },
+  {
+    "Name": "Sea serpents",
+    "Other Names": "",
+    "Description": "Sea animals, dinosaurs",
+    "Location": "All bodies of water"
+  },
+  {
+    "Name": "Selma",
+    "Other Names": "Seljordsormen",
+    "Description": "Lake monster",
+    "Location": "Lake Seljord, Telemark, Norway"
+  },
+  {
+    "Name": "Steller's sea ape",
+    "Other Names": "",
+    "Description": "Sea animal",
+    "Location": "Pacific Ocean"
+  },
+  {
+    "Name": "Almas",
+    "Other Names": "Abnauayu, almasty, albasty, bekk-bok,biabin-guli, golub-yavan, gul-biavan, auli-avan,kaptar, kra-dhun, ksy-giik, ksy-gyik, ochokochi,mirygdy, mulen, voita, wind-man, Zana",
+    "Description": "Non-human ape or hominid",
+    "Location": "Asia/Caucasus"
+  },
+  {
+    "Name": "Barmanou",
+    "Other Names": "Barmanu, Big Hairy One",
+    "Description": "Ape or hominid",
+    "Location": "Middle East/Asia"
+  },
+  {
+    "Name": "Beast of Bodmin Moor",
+    "Other Names": "",
+    "Description": "Large felid",
+    "Location": "Cornwall, England"
+  },
+  {
+    "Name": "Beast of Exmoor",
+    "Other Names": "",
+    "Description": "Big cat",
+    "Location": "England"
+  },
+  {
+    "Name": "Bigfoot",
+    "Other Names": "Sasquatch",
+    "Description": "Large and hairy ape-like creature",
+    "Location": "United States and Canada"
+  },
+  {
+    "Name": "British big cats",
+    "Other Names": "Alien big cats (ABCs), phantom cats, mystery cats, English lions,Beast of Bodmin, Beast of Exmoor",
+    "Description": "Carnivorous mammal",
+    "Location": "Great Britain"
+  },
+  {
+    "Name": "Bukit Timah Monkey Man",
+    "Other Names": "BTM, BTMM",
+    "Description": "Forest-dwelling hominid or other primate",
+    "Location": "Singapore"
+  },
+  {
+    "Name": "Chuchunya",
+    "Other Names": "",
+    "Description": "Large hominid",
+    "Location": "Russia"
+  },
+  {
+    "Name": "Chupacabra",
+    "Other Names": "Chupacabras (Spanish for goat-sucker)",
+    "Description": "",
+    "Location": "Puerto Rico (originally),South and Central America,Southern North America"
+  },
+  {
+    "Name": "Dover Demon",
+    "Other Names": "",
+    "Description": "",
+    "Location": "Dover, Massachusetts"
+  },
+  {
+    "Name": "Elwetritsch",
+    "Other Names": "",
+    "Description": "Mammal",
+    "Location": "Germany"
+  },
+  {
+    "Name": "Fouke Monster",
+    "Other Names": "Jonesville Monster, Southern Sasquatch, Boggy Creek Monster",
+    "Description": "Hominid or other primate",
+    "Location": "Arkansas, United States"
+  },
+  {
+    "Name": "Honey Island Swamp monster",
+    "Other Names": "Letiche, Tainted Keitre",
+    "Description": "Hominid or other primate",
+    "Location": "Louisiana, United States"
+  },
+  {
+    "Name": "Lizard Man of Scape Ore Swamp",
+    "Other Names": "Lizard Man of Lee County",
+    "Description": "Bipedal",
+    "Location": "South Carolina, United States"
+  },
+  {
+    "Name": "Michigan Dogman",
+    "Other Names": "",
+    "Description": "Humanoid dog",
+    "Location": "Wexford County, Michigan"
+  },
+  {
+    "Name": "Minhocão",
+    "Other Names": "Big Earthworm",
+    "Description": "Caecilian",
+    "Location": "South America"
+  },
+  {
+    "Name": "Mongolian death worm",
+    "Other Names": "Allghoi (or orghoi) khorkhoi",
+    "Description": "Worm-like animal",
+    "Location": "Gobi Desert (Asia)"
+  },
+  {
+    "Name": "Monkey-man of Delhi",
+    "Other Names": "Black Monkey",
+    "Description": "Big black monkey",
+    "Location": "Old Delhi, India"
+  },
+  {
+    "Name": "Orang Mawas",
+    "Other Names": "Mawas, Orang Dalam, Hantu Jarang Gigi",
+    "Description": "Primate",
+    "Location": "Malaysia"
+  },
+  {
+    "Name": "Skunk ape",
+    "Other Names": "Stink Ape, Myakka Ape, Myakka Skunk Ape",
+    "Description": "Primate",
+    "Location": "Florida, United States"
+  },
+  {
+    "Name": "Yeren",
+    "Other Names": "Yiren, Yeh Ren, Chinese Wildman",
+    "Description": "Primate (possible hominin)",
+    "Location": "China"
+  },
+  {
+    "Name": "Yeti",
+    "Other Names": "Abominable Snowman",
+    "Description": "Large and hairy human-like entity, various other descriptions",
+    "Location": "Himalayas (Asia)"
+  },
+  {
+    "Name": "Yowie",
+    "Other Names": "",
+    "Description": "Large and hairy human-like entity, various other descriptions",
+    "Location": "Australia"
+  },
+  {
+    "Name": "Jersey Devil",
+    "Other Names": "Leeds Devil",
+    "Description": "Winged bipedal horse",
+    "Location": "United States, mainly the South Jersey Pine Barrens, as well as other parts of New Jersey and southeastern Pennsylvania"
+  },
+  {
+    "Name": "Mothman",
+    "Other Names": "Popularized by John A. Keel's book The Mothman Prophecies",
+    "Description": "Winged bipedal",
+    "Location": "Mason County, West Virginia, United States"
+  },
+  {
+    "Name": "Thunderbird",
+    "Other Names": "",
+    "Description": "Giant bird",
+    "Location": "North America"
+  }
+]
